@@ -153,3 +153,4 @@ collecting related resources of gesture recognition here.
 ---
 ## Projects
 - [tz28/Chinese-number-gestures-recognition](https://github.com/tz28/Chinese-number-gestures-recognition)
+-[Real-time Hand Gesture Recognition with PyTorch on EgoGesture, NvGesture and Jester ](https://github.com/ahmetgunduz/Real-time-GesRec)
